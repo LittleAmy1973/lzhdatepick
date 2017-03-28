@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< 57ed3ff13d2680c92cd72e8d22076c764f17129c
 # do-date-pick
 实现日期选择，实现范围选择
@@ -99,3 +100,7 @@ class MyComponent extends Component {
 * **rangedCalendars** *(Boolean)* default: false
 * **lang:** *(String, 'cn' - Chinese, 'jp' - Japanese, 'fr' - French, 'it' - Italian, 'de' - German)* default: none
 >>>>>>> xuan ze ri qi de xuan ze qi
+=======
+# lzhdatepick
+实现日期选择，日期范围选择
+>>>>>>> e6cd1a6853e259b6dc19db8bb11e401efa9d5076
